@@ -19,7 +19,7 @@ module.exports = {
     },
     plugins: [
         new HtmlWebpackPlugin({
-            title: '2048 Game',
+            title: 'Aws Service test',
         })
     ],
     devServer: {
